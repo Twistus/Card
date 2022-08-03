@@ -136,10 +136,13 @@ a:focus {
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: var(--fs-meidum-200);
+
 }
 
 
 .wrapper {
+	margin-inline: auto;
+	width: min(90%, 40rem);
 	height: 80vh;
 	display: flex;
 	flex-direction: column;
