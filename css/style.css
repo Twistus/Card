@@ -142,7 +142,7 @@ body {
 
 .wrapper {
 	margin-inline: auto;
-	width: min(100% - 3rem, 40rem);
+	width: min(100% - 2rem, 40rem);
 	height: 80vh;
 	display: flex;
 	flex-direction: column;
@@ -154,7 +154,7 @@ body {
 	display: flex;
 	overflow: hidden;
 	padding-top: 10rem;
-	background: url("../img/img.jpg") 0 0/cover no-repeat;
+	background: url("//unsplash.it/500/500") 0 0/cover no-repeat;
 	max-width: 35ch;
 	border-radius: 15px;
 	transition: transform 500ms ease;
